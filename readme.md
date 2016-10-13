@@ -1,0 +1,1 @@
+# Kibana with Sense Plugin installed
